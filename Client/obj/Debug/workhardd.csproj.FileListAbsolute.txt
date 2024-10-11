@@ -1,0 +1,10 @@
+C:\Users\Hansangmin\RiderProjects\RunCsharp\workhardd\bin\Debug\workhardd.exe.config
+C:\Users\Hansangmin\RiderProjects\RunCsharp\workhardd\bin\Debug\workhardd.exe
+C:\Users\Hansangmin\RiderProjects\RunCsharp\workhardd\bin\Debug\workhardd.pdb
+C:\Users\Hansangmin\RiderProjects\RunCsharp\workhardd\obj\Debug\workhardd.csproj.AssemblyReference.cache
+C:\Users\Hansangmin\RiderProjects\RunCsharp\workhardd\obj\Debug\workhardd.Properties.Resources.resources
+C:\Users\Hansangmin\RiderProjects\RunCsharp\workhardd\obj\Debug\workhardd.csproj.GenerateResource.cache
+C:\Users\Hansangmin\RiderProjects\RunCsharp\workhardd\obj\Debug\workhardd.csproj.CoreCompileInputs.cache
+C:\Users\Hansangmin\RiderProjects\RunCsharp\workhardd\obj\Debug\workhardd.exe
+C:\Users\Hansangmin\RiderProjects\RunCsharp\workhardd\obj\Debug\workhardd.pdb
+C:\Users\Hansangmin\RiderProjects\RunCsharp\workhardd\obj\Debug\workhardd.Form1.resources
